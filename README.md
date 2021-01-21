@@ -1,6 +1,6 @@
 ### 👻 Boo!
 
-<img src="https://imgflip.com/gif/4uqfew">
+<img src="https://cdn.discordapp.com/attachments/764544721678106654/801912356812750889/space.gif">
 
 👁️ About me 
 - 🔭 Working on Discord Bots & Web projects
