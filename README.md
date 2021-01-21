@@ -1,6 +1,5 @@
 ### 👻 Boo!
-
-<a href="https://imgflip.com/gif/4uqek3"><img src="https://imgflip.com/gif/4uqek3"/></a>
+<img src="https://imgflip.com/gif/4uqek3">
 
 👁️ About me 
 - 🔭 Working on Discord Bots & Web projects
