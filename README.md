@@ -1,16 +1,11 @@
-### Hi there 👋
+- 🔭 Working on Discord Bots & Web projects
+- 🌱 I’m currently learning Javascript and SQL
+- 📫 How to reach me: Space "0x38"#0101 (On discord)
+- 🌑 Fun fact: I love space 
 
-<!--
-**Space0x38/Space0x38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Languages
+. Html
+. Css
+. Python
+. Javascript (Soon)
+. SQL (Soon)
