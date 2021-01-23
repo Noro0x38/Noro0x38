@@ -6,9 +6,9 @@
 ───────────────────────────────────── <br> 
 👁️ About me 
 - 🔭 Working on Web projects
-- 🌱 I’m currently learning <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"> Javascript </a> and <a href="https://www.mysql.com/fr/"> mySQL </a>
-- 📫 How to reach me: <a href="https://discord.gg/blitz"> Space "0x38"#0101 </a> (On discord)
-- 🌑 Fun fact: I love space (and the <a href="https://fr.wikipedia.org/wiki/Lune"> Moon </a>)
+- 🌱 I’m currently learning <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> Javascript </a> and <a href="https://www.mysql.com/fr/" target="_blank"> mySQL </a>
+- 📫 How to reach me: <a href="https://discord.gg/blitz" target="_blank"> Space "0x38"#0101 </a> (On discord)
+- 🌑 Fun fact: I love space (and the <a href="https://fr.wikipedia.org/wiki/Lune" target="_blank"> Moon </a>)
 
 ───────────────────────────────────── <br> 
 
