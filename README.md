@@ -5,7 +5,7 @@
 
 ───────────────────────────────────── <br> 
 👁️ About me 
-- 🔭 Working on Web projects
+- 🔭 Working on Web projects & Some tools
 - 🌱 I’m currently learning <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> Javascript </a> and <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank"> mySQL </a>
 - 📫 How to reach me: <a href="discord.gg/blitz" target="_blank"> Space "0x38"#0101 </a> (On discord)
 - 🌑 Fun fact: I love space (and the <a href="https://fr.wikipedia.org/wiki/Lune" target="_blank"> Moon </a>)
