@@ -1,6 +1,6 @@
 ### 👁️ Hello there!
 
-<a href="https://cdn.discordapp.com/attachments/764544721678106654/812103414997712957/noro_w_overlay.gif"><img src="https://cdn.discordapp.com/attachments/764544721678106654/812103414997712957/noro_w_overlay.gif"></a>
+<a href="https://cdn.discordapp.com/attachments/764544721678106654/812103926189916190/noro.gif"><img src="https://cdn.discordapp.com/attachments/764544721678106654/812103926189916190/noro.gif"></a>
 
 
 ───────────────────────────────────── <br> 
