@@ -4,13 +4,6 @@
 
 
 ───────────────────────────────────── <br> 
-❓ About me.
-- 🔭 Working on Web projects & Some tools.
-- 🌱 I’m currently learning <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> Javascript </a> and <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank"> PHP </a>.
-- 📫 How to reach me: <a href="https://discord.gg/fnYywmjR5d" target="_blank"> Jules D.#0001 </a> (On discord).
-- 🌑 Fun fact: I love space (and the <a href="https://fr.wikipedia.org/wiki/Lune" target="_blank"> Moon</a>).
-
-───────────────────────────────────── <br> 
 
 🧠 Technologies.
  - <a href="https://cdn.discordapp.com/attachments/764544721678106654/801917803208638504/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6666306430303f7374796c653d666c.png"><img src="https://cdn.discordapp.com/attachments/764544721678106654/801917803208638504/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6666306430303f7374796c653d666c.png"></a>
